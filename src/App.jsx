@@ -3,9 +3,9 @@ import ReactMarkdown from "react-markdown";
 import { writings } from "./writings";
 
 const author = {
-  name: "cn",
+  name: "arm writes",
   tagline: "I write sometimes",
-  bio: "Hi! I'm Arm. I write to capture small moments and try to tell a story. My work includes essays, fiction, and poetry about random topics. Basically whatever feels right in the moment",
+  bio: "Hi! I'm Arm. I write to tell a story, and capture thoughts we don't really think about. My work includes essays, fiction, and poetry about random topics. Basically whatever feels right in the moment",
   year: new Date().getFullYear(),
 };
 

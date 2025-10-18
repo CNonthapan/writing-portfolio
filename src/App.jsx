@@ -3,15 +3,15 @@ import ReactMarkdown from "react-markdown";
 import { writings } from "./writings";
 
 const author = {
-  name: "Your Name",
-  tagline: "Writer • Storyteller • Observer",
-  bio: "Write a short introduction about yourself — who you are, what you write about, and what this site is for.",
+  name: "chawaphon",
+  tagline: "storyteller",
+  bio: "im arm. i write to capture small moments. i try my best to explore the human experience. my work includes essays, fiction, and poetry about random topics. whatever feels right in the moment",
   year: new Date().getFullYear(),
 };
 
 function Home() {
   return (
-    <Section title={`Welcome to ${author.name}'s Writing Portfolio`}>
+    <Section title={`Welcome to my writing collection`}>
       <p className="text-gray-600 leading-relaxed text-lg">{author.bio}</p>
     </Section>
   );

@@ -76,7 +76,7 @@ And maybe that’s enough.
       id: "tin-mine",
       title: "บทเรียนจากเรื่องสั้นชุดเหมืองแร่",
       content: `
->กินอย่าอาย ตายอย่ากลัว ยากช่างหัว ตายปลด
+`>"กินอย่าอาย ตายอย่ากลัว ยากช่างหัว ตายปลด"
 
 ผมโตมาในโรงเรียนเอกชนตั้งแต่จำความได้ ห้องเรียนของผมมีกระจกใส แอร์เย็น พื้นสะอาด ไม่มีเศษดินติดรองเท้า แต่โลกของ อาจินต์ ปัญจพรรค์ ใน “เหมืองแร่” กลับเต็มไปด้วยเหงื่อ ขี้โคลน และเสียงหัวเราะของคนงานที่ไม่รู้จักคำว่า “หลักสูตรแกนกลาง” สิ่งที่เขาเรียนรู้ไม่ได้มาจากตำรา แต่มาจากการถูกโยนลงไปในเหมืองที่สอนบทเรียนชีวิตที่ตรงกว่า ครูคือความลำบาก หนังสือคือแผลที่มือ
 
@@ -94,13 +94,13 @@ And maybe that’s enough.
 
 คำว่า “กินอย่าอาย ตายอย่ากลัว ยากช่างหัว ตายปลด” เป็นเหมือนหัวใจของเรื่อง และเป็นประโยคที่สะเทือนผมในฐานะคนที่ถูกเลี้ยงมาในโลกที่ ความวัตถุนิยมเป็นเรื่องสำคัญ แต่คนงานในเหมืองของอาจินต์กลับเรียนรู้ที่จะไม่อายต่อการมีชีวิต จะกิน จะเหนื่อย จะลำบาก ก็ไม่ต้องซ่อน เพราะศักดิ์ศรีแท้คือการอยู่รอดอย่างไม่โกหกตัวเอง
 
->มหาวิทยาลัยสอนความรักชาติ แต่เหมืองแร่สอนความรักชีวิต
+>"มหาวิทยาลัยสอนความรักชาติ แต่เหมืองแร่สอนความรักชีวิต"
 
 "อาย" "กลัว" "ยาก" "ปลด" สี่คำนี้อาจเรียบง่าย แต่รวมกันแล้วกลายเป็นปรัชญาชีวิตที่ลึกกว่าที่จะหาได้ในหนังสือเรียน การไม่อายต่อการทำมาหากิน ไม่กลัวต่อความตาย ไม่หวั่นต่อความยาก คือหนทางของคนที่เข้าใจคุณค่าของการอยู่รอด
 
 ในระบบการศึกษา เราไม่ค่อยได้ถูกฝึกให้เข้าใจชีวิต เรารู้สูตร แต่ไม่รู้สึก เราท่องจำ แต่ไม่ถามว่าทำไม แต่เหมืองแร่ของอาจินต์กลับเป็นโรงเรียนที่ทุกเช้าเริ่มด้วยเสียงเรือขุดและจบลงที่วงเหล้า เป็นโรงเรียนที่สอนให้กลัวน้อยลง อายให้น้อยลง และเข้าใจคำว่า “อยู่” ให้มากขึ้น รอยแผลบนมือของอาจินต์คือประกาศนียบัตร จากสถาบันที่ไม่มีชื่อในทะเบียนใด แต่มีค่าเหนือปริญญาใดๆ
 
->เราไม่มีเวลาชมจันทร์บนชายคา แต่ไปงมจันทร์ในก้นแก้วกัน
+>"เราไม่มีเวลาชมจันทร์บนชายคา แต่ไปงมจันทร์ในก้นแก้วกัน"
 
 เมื่อผมมองย้อนกลับไปในชีวิตที่ไม่เคยขาดแคลน ผมรู้ว่าผมไม่เคยรู้จริงว่า “ยาก” หมายถึงอะไร “เหมืองแร่” จึงเป็นเหมือนครูอีกคน ที่บอกผมอย่างเรียบง่ายว่า ชีวิตไม่ได้มีแต่แสงไฟในห้องเรียน มันยังมีเหงื่อและฝุ่น ที่บางครั้งส่องประกายกว่ารางวัลใดๆ
 
@@ -108,7 +108,7 @@ And maybe that’s enough.
 
 สุดท้ายแล้วเหมืองแร่ คือบทพิสูจน์ว่าความล้มเหลวไม่ใช่รอยด่าง แต่คือทางเปิดของชีวิตที่ทำให้มองเห็นเนื้อแท้ของชีวิตคนเรา การศึกษาที่แท้ ไม่ได้วัดจากเกรดหรือชื่อเสียงโรงเรียน แต่วัดจากความกล้าที่จะทำมาหากินโดยไม่อาย กล้าที่จะทนอยู่กับความลำบาก กล้าที่จะล้มโดยไม่กลัว และกล้าที่จะอยู่โดยไม่หนีความจริง
 
->อดีตคือความฝัน ปัจจุบันต้องอด อนาคตต้องตาย
+>"อดีตคือความฝัน ปัจจุบันต้องอด อนาคตต้องตาย"
       `,
 
     },
@@ -349,29 +349,29 @@ Maybe I had one more promise left in me.
       id: "lighter",
       title: "Lighter",
       content: `
-I find myself in the same place \
-Because you, it remains the same place \
+I find myself in the same place  
+Because you, it remains the same place  
 The clocks have all but frozen 
 
-Fragile and flickering \
-And it's the same night \
+Fragile and flickering  
+And it's the same night  
 But the shading is different
 
-My heart still weighs the same \
-But I carry it lighter \
-In this world turned upside down \
-The feeling of letting go \
+My heart still weighs the same  
+But I carry it lighter  
+In this world turned upside down  
+The feeling of letting go  
 Takes some weight away
 
 ---
 
 > I think this is one of my most poetic piece. Took me quite long to write actually, wrote the first draft at the end of g10 and finished it in g11. The first draft is this
 
-"My heart still weighs the same \
-but I carry it lighter \
-In this world turned upside down \
-Your head that rest upon my chest \
-Takes some weight away" \
+"My heart still weighs the same  
+but I carry it lighter  
+In this world turned upside down  
+Your head that rest upon my chest  
+Takes some weight away"
 
 > actually fire, haven't got the chance to dedicate it to anyone though
       `,
@@ -380,28 +380,28 @@ Takes some weight away" \
       id: "i-took-you-out-of-my-wallet",
       title: "I took you out of my wallet",
       content: `
-I took you out of my wallet \
-Tucked it deep in a drawer \
+I took you out of my wallet  
+Tucked it deep in a drawer  
 Slid you into a box of old things
 
-I took you out of my wallet \
-As if letting go could feel like release \
+I took you out of my wallet  
+As if letting go could feel like release  
 As though distance could unlace the ties 
 
-I took you out of my wallet \
-But every time two lovers kiss \
+I took you out of my wallet  
+But every time two lovers kiss  
 I see a shadow of us lingering 
 
-I took you out of my wallet \
-But not from where you reside \
+I took you out of my wallet  
+But not from where you reside  
 where you still hide 
 
-I took you out of my wallet \
-because my hands ache for a new weight \
+I took you out of my wallet  
+because my hands ache for a new weight  
 And I lean toward the open door 
 
-I took you out of my wallet \
-So I leave us where the past belongs, \
+I took you out of my wallet  
+So I leave us where the past belongs  
 in the quiet between two closing doors
 
 > taking you out of my wallet was tough, in retrospect it definitely took me too long
@@ -411,19 +411,19 @@ in the quiet between two closing doors
       id: "last-one",
       title: "Last One",
       content: `
-This is the last one \
-I promise I'll quit \
-It's expensive \
+This is the last one  
+I promise I'll quit  
+It's expensive  
 and it really stinks
 
-and when I do \
-I pledge to me \
-and to you \
+and when I do  
+I pledge to me  
+and to you  
 that I won't go back
 
-This is the last one \
-I swear it's true \
-It won't be like last time \
+This is the last one  
+I swear it's true  
+It won't be like last time  
 I swear I'll follow through
 
 > I wrote this from the perspective of my grandpa. Every family gathering he would promise us that he would quit, of course you can infer if he actually does or not. 
@@ -435,20 +435,20 @@ I swear I'll follow through
       content: `
 > This one is dedicated to... you! My (not) lovely friends.
 
-We trade the days of innocence \
-For late-night talks and consequence \
-The world spins faster as we try \
+We trade the days of innocence  
+For late-night talks and consequence  
+The world spins faster as we try  
 To carve our names into the sky
 
-Between the classes, streets, and screens \
-We build our worlds on shifting dreams \
-Will all these moments slip away \
+Between the classes, streets, and screens  
+We build our worlds on shifting dreams  
+Will all these moments slip away  
 With drifting ties in coming years  
 
-But I’ll be here, and you’ll be alright \
-No matter where our paths goes \
-I hope, through all the fear \
-That growing up won’t make us strangers.
+But I’ll be here, and you’ll be alright  
+No matter where our paths goes  
+I hope, through all the fear  
+That growing up won’t make us strangers
       `,
     },
   ],

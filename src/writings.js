@@ -76,7 +76,7 @@ And maybe that’s enough.
       id: "tin-mine",
       title: "บทเรียนจากเรื่องสั้นชุดเหมืองแร่",
       content: `
-`>"กินอย่าอาย ตายอย่ากลัว ยากช่างหัว ตายปลด"
+>"กินอย่าอาย ตายอย่ากลัว ยากช่างหัว ตายปลด"
 
 ผมโตมาในโรงเรียนเอกชนตั้งแต่จำความได้ ห้องเรียนของผมมีกระจกใส แอร์เย็น พื้นสะอาด ไม่มีเศษดินติดรองเท้า แต่โลกของ อาจินต์ ปัญจพรรค์ ใน “เหมืองแร่” กลับเต็มไปด้วยเหงื่อ ขี้โคลน และเสียงหัวเราะของคนงานที่ไม่รู้จักคำว่า “หลักสูตรแกนกลาง” สิ่งที่เขาเรียนรู้ไม่ได้มาจากตำรา แต่มาจากการถูกโยนลงไปในเหมืองที่สอนบทเรียนชีวิตที่ตรงกว่า ครูคือความลำบาก หนังสือคือแผลที่มือ
 
@@ -435,7 +435,7 @@ I swear I'll follow through
       content: `
 > This one is dedicated to... you! My (not) lovely friends.
 
-We trade the days of innocence  
+We trade the days of innocence
 For late-night talks and consequence  
 The world spins faster as we try  
 To carve our names into the sky

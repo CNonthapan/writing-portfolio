@@ -232,7 +232,6 @@ looking for?”
       title: "Secondhand Promise",
       content: `
 
->I wrote this in honor of a friend I used to know, not much to elaborate here.
 
 The sky was the kind of gray that had no emotion left in it. Neither stormy nor clear, just suspended, indifferent. 
 I sat on a bench that looked as tired as I felt, slouched between rusted metal arms and peeling wood. It was the same 
@@ -435,7 +434,7 @@ I swear I'll follow through
       content: `
 > This one is dedicated to... you! My (not) lovely friends.
 
-We trade the days of innocence
+We trade the days of innocence  
 For late-night talks and consequence  
 The world spins faster as we try  
 To carve our names into the sky
